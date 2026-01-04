@@ -1,0 +1,7 @@
+/Build/*.br
+  Content-Encoding: br
+  Content-Type: application/octet-stream
+
+/Build/*.gz
+  Content-Encoding: gzip
+  Content-Type: application/octet-stream
