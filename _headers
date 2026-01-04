@@ -1,7 +1,11 @@
-/Build/*.br
+/Build/*.js.br
+  Content-Type: application/javascript
   Content-Encoding: br
-  Content-Type: application/octet-stream
 
-/Build/*.gz
-  Content-Encoding: gzip
+/Build/*.wasm.br
+  Content-Type: application/wasm
+  Content-Encoding: br
+
+/Build/*.data.br
   Content-Type: application/octet-stream
+  Content-Encoding: br
